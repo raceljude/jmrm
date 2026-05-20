@@ -9,9 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#E63946",
-        base: "#F8F9FA",
-        accent: "#2B2D42",
+        primary: "#910029",
+        base: "#ECF4F7",
+        accent: "#39404B",
       },
       fontFamily: {
         sans: ["Arial", "Helvetica", "sans-serif"],
