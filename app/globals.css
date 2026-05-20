@@ -2,8 +2,8 @@
 
 :root {
   --color-primary: #910029;
-  --color-base: #ECF4F7;
-  --color-accent: #39404B;
+  --color-base: #F8F9FA;
+  --color-accent: #161616;
   --nav-height: 76px;
   --container: 1180px;
   --space-inline: clamp(1rem, 4vw, 2rem);
@@ -32,7 +32,7 @@ body {
   overflow-x: hidden;
   background: var(--color-base);
   color: var(--color-accent);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-poppins), Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;

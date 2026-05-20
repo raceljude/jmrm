@@ -9,12 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        primary: "#910029",
-        base: "#ECF4F7",
-        accent: "#39404B",
+        primary: "#E63946",
+        base: "#F8F9FA",
+        accent: "#2B2D42",
       },
       fontFamily: {
-        sans: ["Arial", "Helvetica", "sans-serif"],
+        sans: ["var(--font-poppins)"],
       },
       animation: {
         'fade-up': 'fadeUp 0.4s ease-out forwards',
